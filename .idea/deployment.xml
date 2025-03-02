@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="Zephyr-Docker (5819c678-6114-439d-aaaf-52f9a12229c8)">
+        <serverdata>
+          <mappings>
+            <mapping local="$USER_HOME$/.platformio/packages/framework-arduinoespressif32/libraries/SD/src" web="/" />
+            <mapping local="$USER_HOME$/.platformio/packages/framework-arduinoespressif32/libraries/RainMaker/src" web="/" />
+            <mapping local="$USER_HOME$/.platformio/packages/framework-arduinoespressif32/libraries/FFat/src" web="/" />
+            <mapping local="$USER_HOME$/.platformio/packages/framework-arduinoespressif32/libraries/Preferences/src" web="/" />
+            <mapping local="$USER_HOME$/.platformio/packages/framework-arduinoespressif32/libraries/Update/src" web="/" />
+            <mapping local="$USER_HOME$/.platformio/packages/framework-arduinoespressif32/libraries/WiFi/src" web="/" />
+            <mapping local="$USER_HOME$/.platformio/packages/framework-arduinoespressif32/libraries/Insights/src" web="/" />
+            <mapping local="$USER_HOME$/.platformio/packages/framework-arduinoespressif32/libraries/SPIFFS/src" web="/" />
+            <mapping local="$USER_HOME$/.platformio/packages/framework-arduinoespressif32/libraries/HTTPClient/src" web="/" />
+            <mapping local="$USER_HOME$/.platformio/packages/framework-arduinoespressif32/libraries/BLE/src" web="/" />
+            <mapping local="$USER_HOME$/.platformio/packages/framework-arduinoespressif32/libraries/DNSServer/src" web="/" />
+            <mapping local="$USER_HOME$/.platformio/packages/framework-arduinoespressif32/libraries/ESPmDNS/src" web="/" />
+            <mapping local="$USER_HOME$/.platformio/packages/framework-arduinoespressif32/libraries/SD_MMC/src" web="/" />
+            <mapping local="$USER_HOME$/.platformio/packages/framework-arduinoespressif32/libraries/I2S/src" web="/" />
+            <mapping local="$USER_HOME$/.platformio/packages/framework-arduinoespressif32/libraries/Wire/src" web="/" />
+            <mapping local="$USER_HOME$/.platformio/packages/framework-arduinoespressif32/libraries/USB/src" web="/" />
+            <mapping local="$USER_HOME$/.platformio/packages/framework-arduinoespressif32/libraries/EEPROM/src" web="/" />
+            <mapping local="$USER_HOME$/.platformio/packages/framework-arduinoespressif32/libraries/AsyncUDP/src" web="/" />
+            <mapping local="$USER_HOME$/.platformio/packages/framework-arduinoespressif32/libraries/SimpleBLE/src" web="/" />
+            <mapping local="$USER_HOME$/.platformio/packages/framework-arduinoespressif32/libraries/WiFiProv/src" web="/" />
+            <mapping local="$USER_HOME$/.platformio/packages/framework-arduinoespressif32/libraries/NetBIOS/src" web="/" />
+            <mapping local="$USER_HOME$/.platformio/packages/framework-arduinoespressif32/libraries/ArduinoOTA/src" web="/" />
+            <mapping local="$USER_HOME$/.platformio/packages/framework-arduinoespressif32/libraries/SPI/src" web="/" />
+            <mapping local="$USER_HOME$/.platformio/packages/framework-arduinoespressif32/libraries/BluetoothSerial/src" web="/" />
+            <mapping local="$USER_HOME$/.platformio/packages/framework-arduinoespressif32/libraries/WiFiClientSecure/src" web="/" />
+            <mapping local="$USER_HOME$/.platformio/packages/framework-arduinoespressif32/libraries/Ticker/src" web="/" />
+            <mapping local="$USER_HOME$/.platformio/packages/framework-arduinoespressif32/libraries/HTTPUpdate/src" web="/" />
+            <mapping local="$USER_HOME$/.platformio/packages/framework-arduinoespressif32/libraries/LittleFS/src" web="/" />
+            <mapping local="$USER_HOME$/.platformio/packages/framework-arduinoespressif32/libraries/FS/src" web="/" />
+            <mapping local="$USER_HOME$/.platformio/packages/framework-arduinoespressif32/libraries/Ethernet/src" web="/" />
+            <mapping local="$USER_HOME$/.platformio/packages/framework-arduinoespressif32/libraries/WebServer/src" web="/" />
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="husqvarna-ubuntu (683f0360-338f-41f4-ab37-c0b33477cc6e)">
+        <serverdata>
+          <mappings>
+            <mapping local="$USER_HOME$/.platformio/packages/framework-arduinoespressif32/libraries/SD/src" web="/" />
+            <mapping local="$USER_HOME$/.platformio/packages/framework-arduinoespressif32/libraries/RainMaker/src" web="/" />
+            <mapping local="$USER_HOME$/.platformio/packages/framework-arduinoespressif32/libraries/FFat/src" web="/" />
+            <mapping local="$USER_HOME$/.platformio/packages/framework-arduinoespressif32/libraries/Preferences/src" web="/" />
+            <mapping local="$USER_HOME$/.platformio/packages/framework-arduinoespressif32/libraries/Update/src" web="/" />
+            <mapping local="$USER_HOME$/.platformio/packages/framework-arduinoespressif32/libraries/WiFi/src" web="/" />
+            <mapping local="$USER_HOME$/.platformio/packages/framework-arduinoespressif32/libraries/Insights/src" web="/" />
+            <mapping local="$USER_HOME$/.platformio/packages/framework-arduinoespressif32/libraries/SPIFFS/src" web="/" />
+            <mapping local="$USER_HOME$/.platformio/packages/framework-arduinoespressif32/libraries/HTTPClient/src" web="/" />
+            <mapping local="$USER_HOME$/.platformio/packages/framework-arduinoespressif32/libraries/BLE/src" web="/" />
+            <mapping local="$USER_HOME$/.platformio/packages/framework-arduinoespressif32/libraries/DNSServer/src" web="/" />
+            <mapping local="$USER_HOME$/.platformio/packages/framework-arduinoespressif32/libraries/ESPmDNS/src" web="/" />
+            <mapping local="$USER_HOME$/.platformio/packages/framework-arduinoespressif32/libraries/SD_MMC/src" web="/" />
+            <mapping local="$USER_HOME$/.platformio/packages/framework-arduinoespressif32/libraries/I2S/src" web="/" />
+            <mapping local="$USER_HOME$/.platformio/packages/framework-arduinoespressif32/libraries/Wire/src" web="/" />
+            <mapping local="$USER_HOME$/.platformio/packages/framework-arduinoespressif32/libraries/USB/src" web="/" />
+            <mapping local="$USER_HOME$/.platformio/packages/framework-arduinoespressif32/libraries/EEPROM/src" web="/" />
+            <mapping local="$USER_HOME$/.platformio/packages/framework-arduinoespressif32/libraries/AsyncUDP/src" web="/" />
+            <mapping local="$USER_HOME$/.platformio/packages/framework-arduinoespressif32/libraries/SimpleBLE/src" web="/" />
+            <mapping local="$USER_HOME$/.platformio/packages/framework-arduinoespressif32/libraries/WiFiProv/src" web="/" />
+            <mapping local="$USER_HOME$/.platformio/packages/framework-arduinoespressif32/libraries/NetBIOS/src" web="/" />
+            <mapping local="$USER_HOME$/.platformio/packages/framework-arduinoespressif32/libraries/ArduinoOTA/src" web="/" />
+            <mapping local="$USER_HOME$/.platformio/packages/framework-arduinoespressif32/libraries/SPI/src" web="/" />
+            <mapping local="$USER_HOME$/.platformio/packages/framework-arduinoespressif32/libraries/BluetoothSerial/src" web="/" />
+            <mapping local="$USER_HOME$/.platformio/packages/framework-arduinoespressif32/libraries/WiFiClientSecure/src" web="/" />
+            <mapping local="$USER_HOME$/.platformio/packages/framework-arduinoespressif32/libraries/Ticker/src" web="/" />
+            <mapping local="$USER_HOME$/.platformio/packages/framework-arduinoespressif32/libraries/HTTPUpdate/src" web="/" />
+            <mapping local="$USER_HOME$/.platformio/packages/framework-arduinoespressif32/libraries/LittleFS/src" web="/" />
+            <mapping local="$USER_HOME$/.platformio/packages/framework-arduinoespressif32/libraries/FS/src" web="/" />
+            <mapping local="$USER_HOME$/.platformio/packages/framework-arduinoespressif32/libraries/Ethernet/src" web="/" />
+            <mapping local="$USER_HOME$/.platformio/packages/framework-arduinoespressif32/libraries/WebServer/src" web="/" />
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>
